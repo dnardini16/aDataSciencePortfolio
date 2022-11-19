@@ -6,7 +6,7 @@
 <h3> Data Science </h3>
 <p> This section is dedicated to Data Science World </p>
 <p> <strong>Notebooks</strong> </p>
-<a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Data%20Science/Explanatory_Data_Analysis_on_TV_Shows.ipynb">Explanatory_Data_Analysis_on_TV_Shows</a>
+<li><a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Data%20Science/Explanatory_Data_Analysis_on_TV_Shows.ipynb">Explanatory_Data_Analysis_on_TV_Shows</a></li>
 <h3> Machine Learning </h3>
 <p> This section is dedicated to Machine Learning Space </p>
 <h3> Programming </h3>
