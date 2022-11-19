@@ -5,6 +5,8 @@
 <p> Thanks to being here. The purpose of this page is to share my <strong>knowledge</strong> and my <strong>passion</strong> in <strong>Data Science, Machine Learning and Programming!</strong> </p>
 <h3> Data Science </h3>
 <p> This section is dedicated to Data Science World </p>
+<p> <strong>Notebooks</strong> </p>
+<a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Data%20Science/Explanatory_Data_Analysis_on_TV_Shows.ipynb">Explanatory_Data_Analysis_on_TV_Shows</a>
 <h3> Machine Learning </h3>
 <p> This section is dedicated to Machine Learning Space </p>
 <h3> Programming </h3>
