@@ -14,3 +14,4 @@
 <h3> Programming </h3>
 <p> This section is dedicated to Programming Universe </p>
 <li><a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Programming/BMI%20App%20with%20tkinter/bmi_app_tkinter.py">BMI App with Tkinter</a></li>
+<li><a href="https://github.com/dnardini16/streamlitpasswordgenerator">Streamlit Web App - Password Generator</a></li>
