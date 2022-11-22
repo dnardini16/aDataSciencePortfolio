@@ -8,7 +8,9 @@
 <p> <strong>Notebooks</strong> </p>
 <li><a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Data%20Science/Eda%20on%20TV%20Shows/Exploratory_Data_Analysis_on_TV_Shows.ipynb">Exploratory Data Analysis on TV Shows</a></li>
 <li><a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Data%20Science/Eda%20on%20Text%20Data/Exploratory_Data_Analysis_on_Text_Data.ipynb">Exploratory Data Analysis on Text Data</a></li>
+<li><a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Data%20Science/Plots%20with%20Matplolib%20and%20Seaborn/Histograms%20on%20Iris%20Dataset.ipynb">Histograms on Iris Dataset</a></li>
 <h3> Machine Learning </h3>
 <p> This section is dedicated to Machine Learning Space </p>
 <h3> Programming </h3>
+<li><a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Programming/BMI%20App%20with%20tkinter/bmi_app_tkinter.py">BMI App with Tkinter</a></li>
 <p> This section is dedicated to Programming Universe </p>
