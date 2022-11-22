@@ -12,5 +12,5 @@
 <h3> Machine Learning </h3>
 <p> This section is dedicated to Machine Learning Space </p>
 <h3> Programming </h3>
-<li><a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Programming/BMI%20App%20with%20tkinter/bmi_app_tkinter.py">BMI App with Tkinter</a></li>
 <p> This section is dedicated to Programming Universe </p>
+<li><a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Programming/BMI%20App%20with%20tkinter/bmi_app_tkinter.py">BMI App with Tkinter</a></li>
