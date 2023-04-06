@@ -11,6 +11,9 @@
 <li><a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Data%20Science/Plots%20with%20Matplolib%20and%20Seaborn/Histograms%20on%20Iris%20Dataset.ipynb">Histograms on Iris Dataset</a></li>
 <h3> Machine Learning </h3>
 <p> This section is dedicated to Machine Learning Space </p>
+<p> <strong>Notebooks</strong> </p>
+<li><a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Machine%20Learning/Basic%20Decision%20Tree%20Regressor%20ML%20Algorithm%20for%20Temperature%20Prediction/Basic%20Decision%20Tree%20Regression%20ML%20Algorithm%20for%20Temperature%20Prediction.ipynb">Basic Decision Tree Regressor ML Algorithm for Temperature Prediction</a></li>
+<li><a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Machine%20Learning/Gradient%20Boosting%20Regressor%20Temperature%20Prediction/Gradient%20Boosting%20Regressor%20Temperature%20Prediction.ipynb">Gradint Boosting Regression ML Algorithm for Temperature Prediction</a></li>
 <h3> Programming </h3>
 <p> This section is dedicated to Programming Universe </p>
 <li><a href="https://github.com/dnardini16/aDataSciencePortfolio/blob/main/Programming/BMI%20App%20with%20tkinter/bmi_app_tkinter.py">BMI App with Tkinter</a></li>
